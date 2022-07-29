@@ -334,7 +334,7 @@ mccabe==0.6.1
     # via flake8
 minio==7.1.0
     # via feast (setup.py)
-mistune==2.0.2
+mistune==2.0.3
     # via great-expectations
 mmh3==3.0.0
     # via feast (setup.py)
