@@ -516,7 +516,7 @@ pyparsing==2.4.7
     #   packaging
 pyrsistent==0.18.1
     # via jsonschema
-pyspark==3.2.1
+pyspark==3.2.2
     # via feast (setup.py)
 pytest==7.1.2
     # via
