@@ -128,7 +128,7 @@ colorama==0.4.4
     #   great-expectations
 coverage[toml]==6.4.1
     # via pytest-cov
-cryptography==35.0.0
+cryptography==39.0.1
     # via
     #   adal
     #   azure-identity
