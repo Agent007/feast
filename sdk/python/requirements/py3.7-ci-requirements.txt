@@ -308,7 +308,7 @@ importlib-resources==5.7.1
     # via jsonschema
 iniconfig==1.1.1
     # via pytest
-ipython==7.34.0
+ipython==8.10.0
     # via great-expectations
 isodate==0.6.1
     # via msrest
