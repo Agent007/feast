@@ -789,7 +789,7 @@ websocket-client==1.3.2
     # via docker
 websockets==10.3
     # via uvicorn
-werkzeug==2.1.2
+werkzeug==2.2.3
     # via moto
 wheel==0.37.1
     # via pip-tools
